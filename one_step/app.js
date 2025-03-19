@@ -4,8 +4,8 @@
 // printMessage();
 // printMessage('Welcome to JavaScript!');
 
-const printMessage = (message = 'Hello, I am Dawid ') =>{
-	console.log(`${message}`);
-};
-printMessage();
-printMessage('write JavaScript Coding');
+// const printMessage = (message = 'Hello, I am Dawid ') =>{
+// 	console.log(`${message}`);
+// };
+// printMessage();
+// printMessage('write JavaScript Coding');
